@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## CV_TU107
 
-You can use the [editor on GitHub](https://github.com/ratchaprapaa/CV_TU107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![IMG_4458](https://user-images.githubusercontent.com/95415929/144470026-94a43212-a7a5-4b8f-9bda-ebd44b8a970f.JPG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## ABOUT ME
 
-### Markdown
+Name : Ratchaprapa Suwannatrai
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nickname : Pakboong
 
-```markdown
-Syntax highlighted code block
+Age : 18 
 
-# Header 1
-## Header 2
-### Header 3
+Birthday : 19 January 2003
 
-- Bulleted
-- List
+## EDUCATION
 
-1. Numbered
-2. List
+Primary School :  Saint Joseph Nakae School
 
-**Bold** and _Italic_ and `Code` text
+High School : Piyamaharachalai School
 
-[Link](url) and ![Image](src)
-```
+University : Thammasat University (Collage Of Interdisciplinary Studies , Major Of Data Science And Innovation)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ 
+ ## Certificate & Activity
 
-### Jekyll Themes
+- Have participated In The national Anthropological Question-Answer Competition
+- Quiz Competition Northeastern EP & MEP Open House 2019
+- Cheerleaders At PY Sports Day 2019
+- Volunteer To Be A Translator For Korean Doctors 2018
+- Volunteer To Be A Translator For Korean Doctors 2019
+- Training Camp For Guides Of Nakhon Phanom Province 2018
+- participated In The Project To Enhance The natural Tourism 2018
+- Go To Practice Experience At Nakhon Phanom Hospital For 14 Days
+- Donate Blood 2020
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ratchaprapaa/CV_TU107/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ 
+ 
